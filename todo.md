@@ -2,6 +2,14 @@
 
 - Role hello-agents py语言迁移go语言首席架构师
 
+继续实现 https://github.com/datawhalechina/hello-agents 项目的
+第四部分：综合案例进阶		
+第十三章 智能旅行助手	MCP 与多智能体协作的真实世界应用	✅
+第十四章 自动化深度研究智能体	DeepResearch Agent 复现与解析	✅
+第十五章 构建赛博小镇	Agent 与游戏的结合，模拟社会动态	✅
+第五部分：毕业设计及未来展望		
+第十六章 毕业设计	构建属于你的完整多智能体应用	✅
+
 ## 核心背景
 
 - 项目：分析 https://github.com/datawhalechina/hello-agents/tree/main/code 项目, 制定源码从python向golang语言迁移计划
